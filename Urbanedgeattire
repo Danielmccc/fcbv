@@ -93,7 +93,89 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><style class="silex-style-settings">.website-width {width: 1000px;}@media (min-width: 481px) {.silex-editor {min-width: 1200px;}}</style><style class="silex-prodotype-style" data-style-id="all-style">h1 {font-weight: normal;}.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; text-align: center; letter-spacing: 2px;}a {color: #000000; text-decoration: none;}[data-silex-href] {color: #000000; text-decoration: none;}@media only screen and (max-width: 480px) {.text-element > .silex-element-content {font-size: 23px;}}</style><style class="silex-prodotype-style" data-style-id="nav">.nav.text-element > .silex-element-content {text-align: center;}.nav a {color: #000000; text-decoration: none;}.nav [data-silex-href] {color: #000000; text-decoration: none;}.nav .page-link-active {background-color: #47c1d9;}</style><style class="silex-prodotype-style" data-style-id="header">.header.text-element > .silex-element-content {line-height: 2;}</style><style class="silex-prodotype-style" data-style-id="style-tiles">@media only screen and (max-width: 480px) {}</style><style class="silex-prodotype-style" data-style-id="style-paragraph">.style-paragraph p {line-height: 2;}</style><!-- Silex HEAD tag do not remove --><script src="https://unpkg.com/scrollreveal"></script><!-- End of Silex HEAD tag do not remove --></head>
 
 <body data-silex-id="body-initial" class="body-initial is-not-active all-style enable-mobile prevent-resizable prevent-selectable editable-style silex-runtime" data-silex-type="container-element" style="">
-    <nav data-silex-type="container-element" class="container-element editable-style silex-id-1496137851436-2 section-element show-when-active prevent-resizable" data-silex-id="silex-id-1496137851436-2">
+    
+    
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+<nav data-silex-type="container-element" class="container-element editable-style silex-id-1496137851436-2 section-element show-when-active prevent-resizable" data-silex-id="silex-id-1496137851436-2">
         <div data-silex-type="container-element" class="editable-style silex-id-1496137851435-1 container-element silex-element-content website-width" data-silex-id="silex-id-1496137851435-1">
 
 
@@ -117,8 +199,7 @@
 
             <div data-silex-type="image-element" class="editable-style silex-id-1496162110372-8 image-element close-btn" data-silex-id="silex-id-1496162110372-8"><img src="../../../../../libs/templates/silex-templates/creative/assets/hamburger2-close-white.png" class="" alt="Close nav button"></div>
         </div>
-    </nav>
-    <header data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element show-when-not-active prevent-resizable" data-silex-id="silex-id-1478366444112-1">
+    </nav><header data-silex-type="container-element" class="container-element editable-style silex-id-1478366444112-1 section-element show-when-not-active prevent-resizable" data-silex-id="silex-id-1478366444112-1">
         <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width" data-silex-id="silex-id-1478366444112-0"><a data-silex-type="image-element" class="editable-style silex-id-1496137172968-2 image-element page-link-active" data-silex-id="silex-id-1496137172968-2" href="#!page-home-page"><img src="../../../../../libs/templates/silex-templates/creative/assets/logo.png" class="" alt="Logo"></a><div data-silex-type="container-element" class="editable-style silex-id-1545060115782-18 container-element hide-on-desktop" data-silex-id="silex-id-1545060115782-18"></div>
 
 
@@ -128,23 +209,7 @@
 
 
         <div data-silex-type="image-element" class="editable-style silex-id-1496160336487-5 image-element open-btn" data-silex-id="silex-id-1496160336487-5"><img src="../../../../../libs/templates/silex-templates/creative/assets/hamburger2.png" class="" alt="Open nav button"></div></div>
-    </header>
-    <div data-silex-type="container-element" class="container-element editable-style silex-id-1496169913595-60 section-element prevent-resizable page-product-details paged-element page-about" data-silex-id="silex-id-1496169913595-60">
-        <div data-silex-type="container-element" class="editable-style silex-id-1496169913594-59 container-element silex-element-content website-width" data-silex-id="silex-id-1496169913594-59"></div>
-    </div>
-
-    
-
-
-
-
-
-
-
-
-
-
-    <section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-home-page paged-element" data-silex-id="silex-id-1474394621033-3">
+    </header><section data-silex-type="container-element" class="container-element editable-style silex-id-1474394621033-3 section-element prevent-resizable page-home-page paged-element" data-silex-id="silex-id-1474394621033-3" style="">
         <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1474394621032-2 container-element website-width" data-silex-id="silex-id-1474394621032-2">
 
 
@@ -192,55 +257,9 @@
 
                 </div>
             </div></div>
-    </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <section data-silex-type="container-element" class="container-element editable-style silex-id-1496148764365-5 section-element prevent-resizable page-home-page paged-element" data-silex-id="silex-id-1496148764365-5" style="">
+    </section><div data-silex-type="container-element" class="container-element editable-style silex-id-1496169913595-60 section-element prevent-resizable page-product-details paged-element page-about" data-silex-id="silex-id-1496169913595-60">
+        <div data-silex-type="container-element" class="editable-style silex-id-1496169913594-59 container-element silex-element-content website-width" data-silex-id="silex-id-1496169913594-59"></div>
+    </div><section data-silex-type="container-element" class="container-element editable-style silex-id-1496148764365-5 section-element prevent-resizable page-home-page paged-element" data-silex-id="silex-id-1496148764365-5" style="">
         
     <div data-silex-type="container-element" class="editable-style silex-id-1496148764363-4 container-element silex-element-content website-width" data-silex-id="silex-id-1496148764363-4" style="">
             
@@ -296,16 +315,7 @@
                     </div>
                 </div></a></div></div></section><main data-silex-type="container-element" class="container-element editable-style silex-id-1496168536497-35 section-element prevent-resizable page-product-details paged-element" data-silex-id="silex-id-1496168536497-35">
         <div data-silex-type="container-element" class="editable-style silex-id-1496168536496-34 container-element silex-element-content website-width" data-silex-id="silex-id-1496168536496-34"></div>
-    </main>
-
-
-
-
-
-
-
-
-    <section data-silex-type="container-element" class="container-element editable-style silex-id-1496169474610-49 section-element prevent-resizable page-product-details paged-element page-about" data-silex-id="silex-id-1496169474610-49">
+    </main><section data-silex-type="container-element" class="container-element editable-style silex-id-1496169474610-49 section-element prevent-resizable page-product-details paged-element page-about" data-silex-id="silex-id-1496169474610-49">
         <div data-silex-type="container-element" class="editable-style silex-id-1496169474609-48 container-element silex-element-content website-width" data-silex-id="silex-id-1496169474609-48">
             <div data-silex-type="text-element" class="editable-style silex-id-1496169503613-50 text-element style-paragraph" data-silex-id="silex-id-1496169503613-50">
                 <div class="silex-element-content normal">
@@ -317,8 +327,7 @@
                 </div>
             </div>
         </div>
-    </section>
-    <section data-silex-type="container-element" class="container-element editable-style silex-id-1496169649756-52 section-element prevent-resizable page-product-details paged-element page-about" data-silex-id="silex-id-1496169649756-52">
+    </section><section data-silex-type="container-element" class="container-element editable-style silex-id-1496169649756-52 section-element prevent-resizable page-product-details paged-element page-about" data-silex-id="silex-id-1496169649756-52">
         <div data-silex-type="container-element" class="editable-style silex-id-1496169649755-51 container-element silex-element-content website-width" data-silex-id="silex-id-1496169649755-51">
             
             
@@ -345,8 +354,7 @@
                     </div>
                 </a>
             </div></div>
-    </section>
-    <footer data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" data-silex-id="silex-id-1478366450713-3">
+    </section><footer data-silex-type="container-element" class="container-element editable-style silex-id-1478366450713-3 section-element prevent-resizable" data-silex-id="silex-id-1478366450713-3">
         <div data-silex-type="container-element" class="editable-style silex-element-content silex-id-1478366450713-2 container-element website-width from-bottom" data-silex-id="silex-id-1478366450713-2" style="">
 
 
@@ -399,12 +407,4 @@
 </div>
             </div>
         </div>
-    </footer>
-
-
-
-
-
-
-
-</body></html>
+    </footer></body></html>
